@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solveddescription-diameter-circumference-and-area-of-a-circle
+<br>
+Input from the user the radius of a circle as an integerPrint the diameter, circumference and area using floating point 3.14159Use techniques in 2.7 or MaTH.PI in java.langFormulas:diameter = 2rcircumference = 2*PI*rarea = PI * r*rDo not store the results in a variable specify as a value in the printf statement circumference and area are floating point
